@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&height=250&section=header&text=Hyunju%20Jin&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Hyunju%20Jin&fontSize=90)
 
   <h2>🌸 Welcome 🌸<br/>realzu's GitHub </h2>
     
