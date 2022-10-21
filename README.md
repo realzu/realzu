@@ -28,6 +28,6 @@
   <a href="https://realzzu.tistory.com/"><img src="https://img.shields.io/badge/Tstory-FC7E0F?style=for-the-badge"></a>
   <a href="mailto:jinhh501@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=realzu&tag=프론트엔드)](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=realzu&tag=프론트엔드)](https://velog.io/@realzu/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B5%9C%EC%A2%85-%ED%9A%8C%EA%B3%A0-%EB%B0%96%EC%97%90-%EB%B4%90%EB%B4%90)
   
 </div>
