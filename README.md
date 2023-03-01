@@ -23,7 +23,7 @@
   
   ## 📬 Contacts..
   
-  <a href="https://realzzu.tistory.com/"><img src="https://img.shields.io/badge/Tstory-FC7E0F?style=for-the-badge"></a>
+  <a href="https://realzzu.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FC7E0F?style=for-the-badge"></a>
   <a href="https://velog.io/@realzu"><img src="https://img.shields.io/badge/Velog-1DE9B6?style=for-the-badge"></a>
   <a href="mailto:jinhh501@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
 
