@@ -29,7 +29,7 @@
 
   [![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=realzzu&postId=188)](https://realzzu.tistory.com)
   <br />
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=realzu&tag=회고)](https://velog.io/@realzu/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B5%9C%EC%A2%85-%ED%9A%8C%EA%B3%A0-%EB%B0%96%EC%97%90-%EB%B4%90%EB%B4%90)  
+  <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=realzu&tag=회고)](https://velog.io/@realzu/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B5%9C%EC%A2%85-%ED%9A%8C%EA%B3%A0-%EB%B0%96%EC%97%90-%EB%B4%90%EB%B4%90)  -->
   
 <p align="center">
   <a href="https://github.com/realzu">
